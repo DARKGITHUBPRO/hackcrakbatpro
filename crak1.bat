@@ -1,4 +1,4 @@
-
+@echo off
 color 55
 echo "Do You Like Me...?"
 echo "Yes / No      ?"
