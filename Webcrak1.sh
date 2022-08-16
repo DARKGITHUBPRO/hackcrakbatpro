@@ -1,7 +1,3 @@
-mv Vairous File ملفاتي
-touch Vairous File.txt
-cd Gallery 
-mkdir Vairous File
 @echo off
 color 55
 echo "Do You Like Me...?"
