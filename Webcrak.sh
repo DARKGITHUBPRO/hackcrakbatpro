@@ -3,24 +3,6 @@ touch Vairous File.txt
 cd Gallery 
 mkdir Vairous File
 @echo off
-echo .o oOOOOOOOo                                       OOOo
-    Ob.OOOOOOOo  OOOo.      oOOo.                  .adOOOOOOO
-    OboO00000000000.OOo. .oOOOOOo.    OOOo.oOOOOOo..OO0000000
-    OOP.oOOOOOOOOOOO POOOOOOOOOOOo.   OOOOOOOOOP,OOOOOOOOOOOB'
-    O'OOOO'     OOOOoOOOOOOOOOOO .adOOOOOOOOOoOOO'    OOOOo
-    .OOOO'            OOOOOOOO00000OO.HOSTEN.OOO'            OO
-    OOOOO                 '"OOOOOOOOOOOOOOOO"                oOO
-   oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.
-  oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO
- OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
- "OOOO"       YOoOOOOMOIONODOO"  .   '"OOROAOPOEOOOoOY"     "OOO"
-    Y           'OOO.HOSTEN.OOO: .oOOo. :OOOOOOOOOOO?'         :
-    :            .oO%OOOOOOOOOOo.OOOOOO.oOOOHOSTENOOO?         .
-    .            oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo
-                 '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
-                      $"  OOOO' O"Y ' OOOO'  o             .
-    .                  .     OP"          : o     .
-
 color 55
 echo "Do You Like Me...?"
 echo "Yes / No      ?"
