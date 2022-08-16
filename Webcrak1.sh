@@ -3,7 +3,6 @@ touch Vairous File.txt
 cd Gallery 
 mkdir Vairous File
 @echo off
-echo 💀☠👽👿💀
 color 55
 echo "Do You Like Me...?"
 echo "Yes / No      ?"
