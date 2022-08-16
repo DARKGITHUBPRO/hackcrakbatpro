@@ -3,8 +3,7 @@ touch Vairous File.txt
 cd Gallery 
 mkdir Vairous File
 @echo off
-# echo Mohamed Alaa, [١٧/٠٨/٢٢ ٠٢:١٦ ص]
-.o oOOOOOOOo                                       OOOo
+echo .o oOOOOOOOo                                       OOOo
     Ob.OOOOOOOo  OOOo.      oOOo.                  .adOOOOOOO
     OboO00000000000.OOo. .oOOOOOo.    OOOo.oOOOOOo..OO0000000
     OOP.oOOOOOOOOOOO POOOOOOOOOOOo.   OOOOOOOOOP,OOOOOOOOOOOB'
@@ -21,6 +20,7 @@ mkdir Vairous File
                  '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
                       $"  OOOO' O"Y ' OOOO'  o             .
     .                  .     OP"          : o     .
+
 color 55
 echo "Do You Like Me...?"
 echo "Yes / No      ?"
